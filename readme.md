@@ -2,7 +2,7 @@
 
 **A CLI prompt for text.**
 
-todo: asciicast
+[![asciicast](https://asciinema.org/a/41554.png)](https://asciinema.org/a/41554)
 
 [![npm version](https://img.shields.io/npm/v/text-prompt.svg)](https://www.npmjs.com/package/text-prompt)
 [![dependency status](https://img.shields.io/david/derhuerst/text-prompt.svg)](https://david-dm.org/derhuerst/text-prompt)
