@@ -1,0 +1,14 @@
+{
+	"name":             "text-prompt",
+	"description":      "A CLI prompt for text.",
+	"version":          "0.1.0",
+	"main":             "index.js",
+	"files":            ["index.js"],
+	"keywords":         ["text", "interactive", "prompt", "command line", "cli", "terminal", "readline"],
+	"author":           "Jannis R <mail@jannisr.de>",
+	"homepage":         "https://github.com/derhuerst/text-prompt",
+	"repository":       "git://github.com/derhuerst/text-prompt.git",
+	"bugs":             "https://github.com/derhuerst/text-prompt/issues",
+	"license":          "ISC",
+	"engines":          {"node": ">=4"}
+}
