@@ -1,4 +1,4 @@
-# text-prompt 💯
+# text-prompt ⌨
 
 **A CLI prompt for text.**
 
@@ -27,6 +27,14 @@ textPrompt('What is your name?')
 .on('submit', (v) => console.log('Submitted with', v))
 .on('abort', (v) => console.log('Aborted with', v))
 ```
+
+
+## Related
+
+- [`date-prompt`](https://github.com/derhuerst/date-prompt)
+- [`multiselect-prompt`](https://github.com/derhuerst/multiselect-prompt)
+- [`number-prompt`](https://github.com/derhuerst/number-prompt)
+- [`select-prompt`](https://github.com/derhuerst/select-prompt)
 
 
 ## Contributing

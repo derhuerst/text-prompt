@@ -78,7 +78,8 @@ const TextPrompt = {
 	, render: function () {
 		this.out.write(esc.eraseLine + esc.cursorTo(0) + [
 			  ui.symbol(this.done, this.aborted)
-			, chalk.bold(this.msg), ui.delimiter
+			, chalk.bold(this.msg)
+			, ui.delimiter(this.done)
 			, this.rendered
 		].join(' '))
 		this.out.write(esc.cursorMove(-this.rendered.length + this.cursor))
