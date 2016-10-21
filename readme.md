@@ -31,10 +31,12 @@ textPrompt('What is your name?')
 
 ## Related
 
+- [`mail-prompt`](https://github.com/derhuerst/mail-prompt)
 - [`date-prompt`](https://github.com/derhuerst/date-prompt)
 - [`multiselect-prompt`](https://github.com/derhuerst/multiselect-prompt)
 - [`number-prompt`](https://github.com/derhuerst/number-prompt)
 - [`select-prompt`](https://github.com/derhuerst/select-prompt)
+- [`cli-autocomplete`](https://github.com/derhuerst/cli-autocomplete)
 
 
 ## Contributing
