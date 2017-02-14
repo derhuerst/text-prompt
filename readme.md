@@ -7,6 +7,7 @@
 [![npm version](https://img.shields.io/npm/v/text-prompt.svg)](https://www.npmjs.com/package/text-prompt)
 [![dependency status](https://img.shields.io/david/derhuerst/text-prompt.svg)](https://david-dm.org/derhuerst/text-prompt)
 ![ISC-licensed](https://img.shields.io/github/license/derhuerst/text-prompt.svg)
+[![chat on gitter](https://badges.gitter.im/derhuerst.svg)](https://gitter.im/derhuerst)
 
 *text-prompt* uses [*cli-styles*](https://github.com/derhuerst/cli-styles) and [*prompt-skeleton*](https://github.com/derhuerst/prompt-skeleton) to have a look & feel consistent with [other prompts](https://github.com/derhuerst/prompt-skeleton#prompts-using-prompt-skeleton).
 
@@ -39,6 +40,7 @@ textPrompt('What is your name?')
 - [`select-prompt`](https://github.com/derhuerst/select-prompt)
 - [`tree-select-prompt`](https://github.com/derhuerst/tree-select-prompt)
 - [`cli-autocomplete`](https://github.com/derhuerst/cli-autocomplete)
+- [`switch-prompt`](https://github.com/derhuerst/switch-prompt)
 
 
 ## Contributing
