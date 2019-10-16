@@ -1,7 +1,7 @@
 {
 	"name":             "text-prompt",
 	"description":      "A CLI prompt for text.",
-	"version":          "0.1.2",
+	"version":          "0.1.3",
 	"main":             "index.js",
 	"files":            ["index.js"],
 	"keywords":         ["text", "interactive", "prompt", "command line", "cli", "terminal", "readline"],

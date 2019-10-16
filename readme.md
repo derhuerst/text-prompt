@@ -1,6 +1,10 @@
 # text-prompt ⌨
 
-**A CLI prompt for text.**
+**Deprecated. Use the [input prompt](https://github.com/enquirer/enquirer#input-prompt) or [password prompt](https://github.com/enquirer/enquirer#password-prompt) from [`enquirer`](https://github.com/enquirer/enquirer).**
+
+---
+
+A CLI prompt for text.
 
 [![asciicast](https://asciinema.org/a/41554.png)](https://asciinema.org/a/41554)
 
